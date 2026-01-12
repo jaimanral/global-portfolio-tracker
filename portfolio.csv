@@ -1,0 +1,4 @@
+ticker,exchange,quantity,currency
+AAPL,NYSE,10,USD
+VOD,LSE,50,GBP
+RELIANCE,NSE,5,INR
